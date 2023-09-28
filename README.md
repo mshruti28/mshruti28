@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mshruti28
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Travelling.
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me on linkedIn 
 
